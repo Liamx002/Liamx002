@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Liamx002
-- 👀 I’m interested in Korean Cuisine, Music, and Maths
+- 👀 I’m interested in Data visualisation and data cleaning
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on any data cleaning activities
 - 📫 How to reach me: liamx002@gmail.com
